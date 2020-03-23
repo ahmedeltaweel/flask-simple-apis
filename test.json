@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "title": "item 1",
+        "bids": [
+            {
+                "id": 1,
+                "amount": 5000,
+                "user_id": 1
+            },
+            {
+                "id": 2,
+                "amount": 6000,
+                "user_id": 2
+            },
+            {
+                "id": 3,
+                "amount": 7000,
+                "user_id": 3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "item 2",
+        "bids": [
+            {
+                "id": 4,
+                "amount": 1000,
+                "user_id": 1
+            },
+            {
+                "id": 5,
+                "amount": 2000,
+                "user_id": 2
+            },
+            {
+                "id": 6,
+                "amount": 3000,
+                "user_id": 3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "item 3",
+        "bids": [
+            {
+                "user_id": 1001,
+                "amount": 600,
+                "id": 5
+            }
+        ]
+    }
+]

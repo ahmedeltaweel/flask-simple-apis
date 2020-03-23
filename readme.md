@@ -27,3 +27,7 @@ Once the upper requirements are installed lets up and run the app:
 - Install Flask version 1.1.1 using `pip install flask==1.1.1`
 - once done run the main file using `python3 main.py`
 - You can now access the API on `0.0.0.0:8888`
+
+## Resources 
+
+- [Intor to Flask](https://realpython.com/flask-by-example-part-1-project-setup/)

@@ -30,4 +30,4 @@ Once the upper requirements are installed lets up and run the app:
 
 ## Resources 
 
-- [Intor to Flask](https://realpython.com/flask-by-example-part-1-project-setup/)
+- [Intro to Flask](https://realpython.com/flask-by-example-part-1-project-setup/)
